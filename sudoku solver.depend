@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478381856 source:f:\mantz\tema petri 4\sudoku solver\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+
